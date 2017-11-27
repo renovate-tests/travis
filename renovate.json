@@ -1,6 +1,6 @@
 {
   "node": {
-    "policy": ["lts_active"],
+    "policy": ["lts_active", "current"],
     "enabled": true
   }
 }
